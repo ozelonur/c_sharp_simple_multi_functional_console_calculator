@@ -1,0 +1,7 @@
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\bin\Debug\console_calculator.exe.config
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\bin\Debug\console_calculator.exe
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\bin\Debug\console_calculator.pdb
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\obj\Debug\console_calculator.csprojAssemblyReference.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\obj\Debug\console_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\obj\Debug\console_calculator.exe
+C:\Users\Onur ÖZEL\Desktop\Makaleler\Eğitimler\Atölye\C# Console Hesap Makinesi Yapımı\console_calculator\console_calculator\obj\Debug\console_calculator.pdb
